@@ -21,5 +21,5 @@ Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV and tensorfl
 ## Step_3: Testing and Measuring the performance of the model:-
 - Splitting the dataset into three parts: Training (80% data) and testing (20% data)
 - Now, train the model using CNN Deep Learning Model
-- Achived Accuracy of 0.94 (94%) on testing dataset
+- Achieved Accuracy of 0.94 (94%) on testing dataset
 
